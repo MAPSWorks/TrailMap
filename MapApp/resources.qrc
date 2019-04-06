@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/ball_red.png</file>
+        <file>icons/warning_triangle.png</file>
+        <file>icons/flag.png</file>
+        <file>icons/placemark.png</file>
+        <file>icons/button.png</file>
+    </qresource>
+</RCC>
